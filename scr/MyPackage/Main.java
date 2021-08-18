@@ -5,5 +5,7 @@ public class Main {
         System.out.println("Hello");
         System.out.println("m1");
         System.out.println("m2");
+        System.out.println("b1");
+        System.out.println("b2");
     }
 }
