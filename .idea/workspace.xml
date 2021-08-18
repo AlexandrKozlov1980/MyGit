@@ -1,46 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="65d0a44c-8b88-4873-9700-35af310e8703" name="Default Changelist" comment="Add b22" />
+    <list default="true" id="c920e250-d032-48dd-a627-3f3db3b6e009" name="Default Changelist" comment="merge" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="a716d63130c0c6b314e82b89f23ee105a4f79d49" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="TaskManager">
-    <task id="LOCAL-00001" summary="Add m1">
-      <created>1629269852993</created>
+    <task id="LOCAL-00001" summary="merge">
+      <created>1629273247029</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1629269852993</updated>
+      <updated>1629273247029</updated>
     </task>
-    <task id="LOCAL-00002" summary="Add m2">
-      <created>1629271996873</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1629271996873</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Add b2">
-      <created>1629272086532</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1629272086532</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Add b22">
-      <created>1629272235915</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1629272235915</updated>
-    </task>
-    <option name="localTasksCounter" value="5" />
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -56,10 +53,7 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add m1" />
-    <MESSAGE value="Add m2" />
-    <MESSAGE value="Add b2" />
-    <MESSAGE value="Add b22" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add b22" />
+    <MESSAGE value="merge" />
+    <option name="LAST_COMMIT_MESSAGE" value="merge" />
   </component>
 </project>
